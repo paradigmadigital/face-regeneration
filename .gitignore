@@ -102,3 +102,6 @@ ENV/
 
 # PyCharm
 .idea
+
+# project
+test_data
